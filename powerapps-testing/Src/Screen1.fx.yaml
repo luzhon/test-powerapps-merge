@@ -15,3 +15,12 @@ Screen1 As screen:
         Y: =176
         ZIndex: =2
 
+    "WorldDaylightMap1 As 'RAW! World Daylight Map'":
+        DisplayMode: =DisplayMode.Edit
+        Height: =200
+        PCFDesignLanguage: =App.CurrentTheme
+        Width: =200
+        X: =15
+        Y: =142
+        ZIndex: =2
+

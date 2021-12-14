@@ -37,6 +37,21 @@
     "OverridableProperties": {},
     "Version": "2.4.0"
   },
+  "RAW! World Daylight Map": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": false,
+    "Id": "http://microsoft.com/appmagic/powercontrol/raw_RAW.WorldDaylightMap",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": true,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "raw_RAW.WorldDaylightMap",
+    "OverridableProperties": {},
+    "TemplateDisplayName": "RAW! World Daylight Map",
+    "Version": "0.0.8"
+  },
   "screen": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
