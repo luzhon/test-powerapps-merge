@@ -6,27 +6,35 @@
   "ClientPerFileChecksums": {
     "AppCheckerResult.sarif": "C8_OkbdQwa8g7udyIXTZfzZxtPUq1nMsuiiZ509djpSXJc=",
     "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
-    "Controls\\3.json": "C8_CZ/QmKVjzgC73EzpgjXpykLwa3BDD/5X9ShyfjXy5Rw=",
-    "Header.json": "C8_+fi6Dd3qcjBkEsFRQ6v4gJAzDbqRAzUoGkSrNoEk+5U=",
-    "Properties.json": "C8_w9xpmfQnvhncFIOD6kvN3yDk1np+f+kYVITNwQyvx/g=",
+    "Controls\\3.json": "C8_lC4tSPCuSmrd1F+Lx21TMiJA+TuZz0coie6RjHE+lFI=",
+    "Header.json": "C8_Iidl70R/JPoWhcWoGKMBxkqfH7m9mvZXVL8IC7KnLlc=",
+    "Properties.json": "C8_mSEwK6WuYM5rac5L653reFBqwmAOV7t2+CpMzWpSyeE=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
     "References\\Templates.json": "C8_EPQ5s+c3OWyHgvVy2BHd1XZcQv1MtrmuzsBOOUiqQDc=",
     "References\\Themes.json": "C8_gKSW1beY8ZEfsGh550jBktrn5sf2JMMM1GjiwSdhRy0=",
+    "Resources\\Controls\\css\\RAW.WorldDaylightMap.WorldDaylightMap.css": "C8_5DszpZ/bpfjwmThk/XgJfq2GNG7c5783C4TFFj5xJ4Y=",
+    "Resources\\Controls\\RAW.WorldDaylightMap.bundle.js": "C8_HwZuHcnjgvm3BsmRMnzbdHrOunaRpmEax9b8gXtlLOM=",
+    "Resources\\Controls\\strings\\RAW.WorldDaylightMap.WorldDaylightMap.1033.json": "C8_MHYGMJfQhHduvl6GCaXXsOoGT8AnahxgHAdiYUN417A=",
+    "Resources\\Controls\\strings\\RAW.WorldDaylightMap.WorldDaylightMap.1033.resx": "C8_VJIy+el5yAA/eaWjEKBqh8im6vY9Hd8n+g5bMvHHBmc=",
     "Resources\\PublishInfo.json": "C8_VSkJfi6KpEoAgb3j2UPuf0nWPGmX2CMb/37hdbtbtdA="
   },
-  "ClientStampedChecksum": "C8_yZWxbmOR0bA9GGjSemjYqhfckaOfIXyZS2m+aWwtzSw=",
+  "ClientStampedChecksum": "C8_jla4Mts/zqlrJ8x2jIhfQiWTon8FMHddaasxBk1Bv3M=",
   "ServerPerFileChecksums": {
     "AppCheckerResult.sarif": "C8_OkbdQwa8g7udyIXTZfzZxtPUq1nMsuiiZ509djpSXJc=",
     "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
-    "Controls\\3.json": "C8_CZ/QmKVjzgC73EzpgjXpykLwa3BDD/5X9ShyfjXy5Rw=",
-    "Header.json": "C8_+fi6Dd3qcjBkEsFRQ6v4gJAzDbqRAzUoGkSrNoEk+5U=",
-    "Properties.json": "C8_w9xpmfQnvhncFIOD6kvN3yDk1np+f+kYVITNwQyvx/g=",
+    "Controls\\3.json": "C8_lC4tSPCuSmrd1F+Lx21TMiJA+TuZz0coie6RjHE+lFI=",
+    "Header.json": "C8_Iidl70R/JPoWhcWoGKMBxkqfH7m9mvZXVL8IC7KnLlc=",
+    "Properties.json": "C8_mSEwK6WuYM5rac5L653reFBqwmAOV7t2+CpMzWpSyeE=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
     "References\\Templates.json": "C8_EPQ5s+c3OWyHgvVy2BHd1XZcQv1MtrmuzsBOOUiqQDc=",
     "References\\Themes.json": "C8_gKSW1beY8ZEfsGh550jBktrn5sf2JMMM1GjiwSdhRy0=",
+    "Resources\\Controls\\css\\RAW.WorldDaylightMap.WorldDaylightMap.css": "C8_5DszpZ/bpfjwmThk/XgJfq2GNG7c5783C4TFFj5xJ4Y=",
+    "Resources\\Controls\\RAW.WorldDaylightMap.bundle.js": "C8_HwZuHcnjgvm3BsmRMnzbdHrOunaRpmEax9b8gXtlLOM=",
+    "Resources\\Controls\\strings\\RAW.WorldDaylightMap.WorldDaylightMap.1033.json": "C8_MHYGMJfQhHduvl6GCaXXsOoGT8AnahxgHAdiYUN417A=",
+    "Resources\\Controls\\strings\\RAW.WorldDaylightMap.WorldDaylightMap.1033.resx": "C8_VJIy+el5yAA/eaWjEKBqh8im6vY9Hd8n+g5bMvHHBmc=",
     "Resources\\PublishInfo.json": "C8_VSkJfi6KpEoAgb3j2UPuf0nWPGmX2CMb/37hdbtbtdA="
   },
-  "ServerStampedChecksum": "C8_yZWxbmOR0bA9GGjSemjYqhfckaOfIXyZS2m+aWwtzSw="
+  "ServerStampedChecksum": "C8_jla4Mts/zqlrJ8x2jIhfQiWTon8FMHddaasxBk1Bv3M="
 }
