@@ -2,7 +2,16 @@ Screen1 As screen:
 
     Label1 As label:
         Text: ="Text"
-        X: =40
-        Y: =40
+        X: =68
+        Y: =44
         ZIndex: =1
+
+    Swipe1 As Swipe:
+        DisplayMode: =DisplayMode.Edit
+        Height: =200
+        PCFDesignLanguage: =App.CurrentTheme
+        Width: =200
+        X: =160
+        Y: =176
+        ZIndex: =2
 
