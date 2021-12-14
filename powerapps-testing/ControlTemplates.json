@@ -23,62 +23,14 @@
     "Name": "groupContainer",
     "Version": "1.0"
   },
-  "label": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/label",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": false,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": true,
-    "LastModifiedTimestamp": "0",
-    "Name": "label",
-    "OverridableProperties": {},
-    "Version": "2.4.0"
-  },
-  "RAW! World Daylight Map": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": false,
-    "Id": "http://microsoft.com/appmagic/powercontrol/raw_RAW.WorldDaylightMap",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": true,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": false,
-    "LastModifiedTimestamp": "0",
-    "Name": "raw_RAW.WorldDaylightMap",
-    "OverridableProperties": {},
-    "TemplateDisplayName": "RAW! World Daylight Map",
-    "Version": "0.0.8"
-  },
   "screen": {
-    "CustomGroupControlTemplateName": "",
     "FirstParty": true,
     "Id": "http://microsoft.com/appmagic/screen",
     "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
-    "IsPremiumPcfControl": false,
     "IsWidgetTemplate": false,
     "LastModifiedTimestamp": "0",
     "Name": "screen",
-    "OverridableProperties": {},
     "Version": "1.0"
-  },
-  "Swipe": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": false,
-    "Id": "http://microsoft.com/appmagic/powercontrol/dev_AndrewLy.Swipe",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": true,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": false,
-    "LastModifiedTimestamp": "0",
-    "Name": "dev_AndrewLy.Swipe",
-    "OverridableProperties": {},
-    "TemplateDisplayName": "Swipe",
-    "Version": "0.0.4"
   }
 }
