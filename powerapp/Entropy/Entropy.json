@@ -3,10 +3,12 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 4,
-    "Screen1": 3
+    "Screen1": 3,
+    "Screen2": 5,
+    "WorldDaylightMap1": 6
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "12/14/2021 21:51:34",
+  "HeaderLastSavedDateTimeUTC": "12/14/2021 22:03:36",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -21,13 +23,19 @@
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 0,
-    "Screen1": 0
+    "Screen1": 0,
+    "Screen2": 0,
+    "WorldDaylightMap1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0494778,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.1009951,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 2.1200493,
     "ErrorCount": 0
   }
 }
