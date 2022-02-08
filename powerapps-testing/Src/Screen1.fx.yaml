@@ -9,3 +9,9 @@ Screen1 As screen:
         Y: =325
         ZIndex: =1
 
+    Label1 As label:
+        Text: ="nik"
+        X: =190
+        Y: =104
+        ZIndex: =2
+
