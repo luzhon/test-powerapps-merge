@@ -1,0 +1,12 @@
+{
+  "components": [
+    {
+      "Capabilities": {
+        "PCFExternalServiceUsageAllowed": false
+      },
+      "ComponentName": "CustomControl",
+      "Identifier": "dev_AndrewLy.Swipe",
+      "IdentifierType": 0
+    }
+  ]
+}

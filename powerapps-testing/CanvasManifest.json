@@ -27,6 +27,7 @@
       "enableappembeddingux": false,
       "enablecomponentnamemaps": false,
       "enablecomponentscopeoldbehavior": false,
+      "enableeditcacherefreshfrequency": false,
       "enableexcelonlinebusinessv2connector": true,
       "enableideaspanel": true,
       "enableonstart": true,
@@ -34,6 +35,7 @@
       "enablepcfmoderndatasets": true,
       "enablepowerautomatepane": false,
       "enablerowscopeonetonexpand": false,
+      "enablerpawarecomponentdependency": false,
       "enablerulespanel": false,
       "enablesaveloadcleardataonweb": false,
       "enhanceddelegation": true,
@@ -56,6 +58,7 @@
       "reliableconcurrent": true,
       "rtlinstudiopreview": false,
       "rtlsupport": false,
+      "searchtool": false,
       "usedisplaynamemetadata": true,
       "useenforcesavedatalimits": true,
       "useexperimentalcdsconnector": true,
@@ -93,5 +96,7 @@
     "PublishTarget": "player",
     "UserLocale": "en-US"
   },
-  "ScreenOrder": []
+  "ScreenOrder": [
+    "Screen1"
+  ]
 }
