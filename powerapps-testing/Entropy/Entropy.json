@@ -6,7 +6,7 @@
     "Swipe1": 4
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "02/08/2022 20:01:01",
+  "HeaderLastSavedDateTimeUTC": "02/08/2022 20:21:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -25,9 +25,12 @@
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0067945,
-    "ControlCount": {},
-    "DeserializationLoadTime": 0.9448167,
+    "AnalysisLoadTime": 0.1774599,
+    "ControlCount": {
+      "dev_AndrewLy.Swipe": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 3.7886778,
     "ErrorCount": 0
   }
 }
