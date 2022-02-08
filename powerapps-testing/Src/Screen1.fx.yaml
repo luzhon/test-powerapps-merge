@@ -2,11 +2,11 @@ Screen1 As screen:
 
     Swipe1 As Swipe:
         DisplayMode: =DisplayMode.Edit
-        Height: =200
+        Height: =216
         PCFDesignLanguage: =App.CurrentTheme
-        Width: =200
-        X: =480
-        Y: =325
+        Width: =214
+        X: =270
+        Y: =300
         ZIndex: =1
 
     Label1 As label:
