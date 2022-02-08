@@ -5,8 +5,8 @@ Screen1 As screen:
         Height: =216
         PCFDesignLanguage: =App.CurrentTheme
         Width: =214
-        X: =270
-        Y: =300
+        X: =420
+        Y: =245
         ZIndex: =1
 
     Label1 As label:
