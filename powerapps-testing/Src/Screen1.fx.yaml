@@ -20,7 +20,7 @@ Screen1 As screen:
         Height: =200
         PCFDesignLanguage: =App.CurrentTheme
         Width: =200
-        X: =1166
-        Y: =268
+        X: =180
+        Y: =345
         ZIndex: =3
 
