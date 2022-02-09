@@ -6,8 +6,10 @@ Component1 As CanvasComponent:
     Y: =0
     ZIndex: =1
 
-    Button1 As button:
-        Text: ="Button"
+    Label2 As label:
+        Height: =140
+        Text: ="hello this is gesnas component"
+        Width: =196
         X: =40
         Y: =40
         ZIndex: =1

@@ -25,5 +25,8 @@ Screen1 As screen:
         ZIndex: =3
 
     Component1_1 As Component1:
+        Width: =521
+        X: =634
+        Y: =59
         ZIndex: =4
 
