@@ -9,3 +9,12 @@ Screen2 As screen:
         Y: =185
         ZIndex: =1
 
+    Swipe4 As Swipe:
+        DisplayMode: =DisplayMode.Edit
+        Height: =200
+        PCFDesignLanguage: =App.CurrentTheme
+        Width: =200
+        X: =359
+        Y: =302
+        ZIndex: =2
+
