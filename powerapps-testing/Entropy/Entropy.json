@@ -1,17 +1,7 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Label1": 9,
-    "Screen1": 5,
-    "Screen2": 10,
-    "Swipe1": 8,
-    "Swipe2": 12,
-    "Swipe3": 6,
-    "Swipe4": 11
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "02/09/2022 01:06:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -21,30 +11,8 @@
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "label": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Label1": 8,
-    "Screen1": 4,
-    "Screen2": 9,
-    "Swipe1": 7,
-    "Swipe2": 11,
-    "Swipe3": 5,
-    "Swipe4": 10
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0506133,
-    "ControlCount": {
-      "490294bb33e44b0c92bc856e5eb5127a": 2,
-      "dev_AndrewLy.Swipe": 5,
-      "label": 1,
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.8885336,
-    "ErrorCount": 0
-  }
+  "TemplateVersions": {}
 }
