@@ -1,0 +1,16 @@
+Component1 As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Label2 As label:
+        Height: =140
+        Text: ="hello this is gesnas component"
+        Width: =196
+        X: =40
+        Y: =40
+        ZIndex: =1
+
