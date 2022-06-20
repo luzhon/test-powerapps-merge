@@ -1,0 +1,53 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="Text"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    "Map1 As 'Map (preview)'.pcfdataset":
+        AddressDataSource: ="Default"
+        BorderColor: =RGBA(0, 18, 107, 1)
+        DisplayMode: =DisplayMode.Edit
+        Height: =400
+        Items: =Accounts
+        PinColor: =RGBA(29, 114, 169, 1)
+        Width: =400
+        X: =60
+        Y: =60
+        ZIndex: =2
+
+        "'Account Name1' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Account Name"
+            FieldName: ="name"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =1
+            ZIndex: =1
+
+        "'Main Phone1' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Main Phone"
+            FieldName: ="telephone1"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =2
+            ZIndex: =2
+
+        "'Address 1: City1' As pcfDataField.textualColumn":
+            FieldDisplayName: |-
+                ="Address 1: City"
+            FieldName: ="address1_city"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =3
+            ZIndex: =3
+
+        "'Primary Contact1' As pcfDataField":
+            FieldDisplayName: ="Primary Contact"
+            FieldName: ="primarycontactid"
+            FieldType: ="E"
+            FieldVariantName: ="complexTypeColumn"
+            Order: =4
+            ZIndex: =4
+

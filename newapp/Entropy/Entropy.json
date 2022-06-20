@@ -1,0 +1,99 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "Account Name1": 6,
+    "Address 1: City1": 8,
+    "App": 1,
+    "Label1": 4,
+    "Main Phone1": 7,
+    "Map1": 5,
+    "Primary Contact1": 9,
+    "Screen1": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "06/20/2022 21:55:12",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "58c19675-dcaa-492e-a0dc-7065ab4e2221": "\"/providers/microsoft.powerapps/apis/shared_microsoftspatialservices/connections/7ba954511e6a48869c57f962c584da04\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "Accounts": 37,
+    "Accounts\\account_accountcategorycode": 33,
+    "Accounts\\account_accountclassificationcode": 24,
+    "Accounts\\account_accountratingcode": 17,
+    "Accounts\\account_address1_addresstypecode": 28,
+    "Accounts\\account_address1_freighttermscode": 31,
+    "Accounts\\account_address1_shippingmethodcode": 18,
+    "Accounts\\account_address2_addresstypecode": 30,
+    "Accounts\\account_address2_freighttermscode": 29,
+    "Accounts\\account_address2_shippingmethodcode": 22,
+    "Accounts\\account_businesstypecode": 19,
+    "Accounts\\account_creditonhold": 11,
+    "Accounts\\account_customersizecode": 16,
+    "Accounts\\account_customertypecode": 32,
+    "Accounts\\account_donotbulkemail": 4,
+    "Accounts\\account_donotbulkpostalmail": 3,
+    "Accounts\\account_donotemail": 10,
+    "Accounts\\account_donotfax": 9,
+    "Accounts\\account_donotphone": 5,
+    "Accounts\\account_donotpostalmail": 2,
+    "Accounts\\account_donotsendmm": 6,
+    "Accounts\\account_followemail": 12,
+    "Accounts\\account_industrycode": 15,
+    "Accounts\\account_isprivate": 7,
+    "Accounts\\account_marketingonly": 1,
+    "Accounts\\account_merged": 8,
+    "Accounts\\account_ownershipcode": 14,
+    "Accounts\\account_participatesinworkflow": 13,
+    "Accounts\\account_paymenttermscode": 27,
+    "Accounts\\account_preferredappointmentdaycode": 26,
+    "Accounts\\account_preferredappointmenttimecode": 21,
+    "Accounts\\account_preferredcontactmethodcode": 25,
+    "Accounts\\account_shippingmethodcode": 20,
+    "Accounts\\account_statecode": 34,
+    "Accounts\\account_statuscode": 35,
+    "Accounts\\account_territorycode": 23,
+    "Accounts\\default.cds_account_views": 36,
+    "SpatialServices": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {
+    "Map": 0
+  },
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 0,
+    "pcfDataField": 1
+  },
+  "PublishOrderIndices": {
+    "Account Name1": 0,
+    "Address 1: City1": 0,
+    "App": 0,
+    "Label1": 0,
+    "Main Phone1": 0,
+    "Map1": 0,
+    "Primary Contact1": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0837712,
+    "ControlCount": {
+      "label": 1,
+      "Map": 1,
+      "pcfDataField": 4,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.8727367,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": false
+}
